@@ -1,4 +1,4 @@
-# Module 11 Challenge: Web Scraping and Data Collection
+# Web Scraping and Data Collection
 
 <ins>Project Overview</ins>
 -----
